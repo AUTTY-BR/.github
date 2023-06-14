@@ -1,3 +1,10 @@
+<div align="center">
+
+![Logo]([Copie aqui o link da sua imagem](https://raw.githubusercontent.com/AUTTY-BR/.github/main/assets/images/logo.png))
+
+</div>
+
+
 ## AUTTY: Automatização Industrial e IoT
 ### Somos uma empresa especializada em serviços de automação industrial, IoT e desenvolvimento de hardware e software.
 
