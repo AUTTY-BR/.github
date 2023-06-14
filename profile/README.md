@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo]([Copie aqui o link da sua imagem](https://raw.githubusercontent.com/AUTTY-BR/.github/main/assets/images/logo.png))
+![Logo](https://raw.githubusercontent.com/AUTTY-BR/.github/main/assets/images/logo.png)
 
 </div>
 
