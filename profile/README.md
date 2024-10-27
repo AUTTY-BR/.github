@@ -5,7 +5,7 @@
 </div>
 
 
-## AUTTY: Automatização Industrial e IoT
+## AUTTY: Software, consutoria e Automatização Industrial e IoT
 ### Somos uma empresa especializada em serviços de automação industrial, IoT e desenvolvimento de hardware e software.
 
 🏭 Na AUTTY, oferecemos soluções abrangentes para atender às suas necessidades de automação industrial:
